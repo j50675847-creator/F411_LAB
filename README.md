@@ -68,6 +68,8 @@
 
 <img src="./img/온습도센서.png"> <br>
 
+<img src="./img/온습도센서3.png"> <br>
+
 
 </details>
 
