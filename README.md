@@ -57,5 +57,21 @@
 
 ---
 
+---
+## F411_LAB 초음파 + 온습도(DHT)
+<details>
+
+<summary> F411_LAB 초음파 + 온습도(DHT)   </summary>
+
+
+<img src="./img/온습도센서2.png"> <br>
+
+<img src="./img/온습도센서.png"> <br>
+
+
+</details>
+
+---
+
 
 
