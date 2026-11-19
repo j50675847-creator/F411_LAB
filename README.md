@@ -50,6 +50,8 @@
 
 <img src="./img/트리거.png"> <br>
 
+<img src="./img/트리거2.png"> <br>
+
 
 </details>
 
@@ -57,8 +59,3 @@
 
 
 
-
-  
-</details>
-
----
