@@ -37,6 +37,24 @@
 <img src="./img/계단식 그래프.png"> <br>
 <img src="./img/시간 그래프 표시.png"> <br>
 
+</details>
+---
+
+---
+## SWV / trig trace 관찰 (Rising/Falling edge)  
+<details>
+
+<summary> SWV / trig trace 관찰 (Rising/Falling edge)   </summary>
+
+
+<img src="./img/트리거.png"> <br>
+
+
+</details>
+---
+
+
+
 
   
 </details>
