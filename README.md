@@ -84,11 +84,11 @@
 
 
 - 설정 1 
-<img src="./img/freeRTOS putty.jpg"> <br>
+<img src="./img/설정1.jpg"> <br>
 ---
 
 - 설정 2
-<img src="./img/freeRTOS putty.jpg"> <br>
+<img src="./img/설정2.jpg"> <br>
 
 ```c
 /* USER CODE BEGIN Header_StartUltrasonicTask */
