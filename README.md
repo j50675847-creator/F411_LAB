@@ -185,6 +185,14 @@ void StartDhtTask(void *argument)
 
 <img src="./img/freeRTOS putty.jpg"> <br>
 
+- 가까운 거리
+<img src="./img/가까운 오실.png"> <br>
+
+---
+
+-먼 거리
+<img src="./img/먼 오실.png"> <br>
+
 
   
 </details>
