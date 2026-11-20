@@ -84,11 +84,11 @@
 
 
 - 설정 1 
-<img src="./img/설정1.jpg"> <br>
+<img src="./img/설정1.png"> <br>
 ---
 
 - 설정 2
-<img src="./img/설정2.jpg"> <br>
+<img src="./img/설정2.png"> <br>
 
 ```c
 /* USER CODE BEGIN Header_StartUltrasonicTask */
@@ -183,15 +183,15 @@ void StartDhtTask(void *argument)
 }
 ```
 
-<img src="./img/freeRTOS putty.jpg"> <br>
+<img src="./img/freeRTOS putty.png"> <br>
 
 - 가까운 거리
-<img src="./img/가까운 오실.png"> <br>
+<img src="./img/가까운 오실.jpg"> <br>
 
 ---
 
 -먼 거리
-<img src="./img/먼 오실.png"> <br>
+<img src="./img/먼 오실.jpg"> <br>
 
 
   
